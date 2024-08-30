@@ -1,0 +1,36 @@
+[33mcommit 7f47ffd4332d4fe78c7b94dbd6c8a174b02a555a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b1922b4 5dabcdf
+Author: Pedro <jprivero4@gmail.com>
+Date:   Tue Aug 27 22:32:08 2024 -0400
+
+    Merge branch 'main' of https://github.com/PedroRiverop/JPedroriverop-Form_HTML5_Bootstrap
+
+[33mcommit b1922b426d5cc67f781e656b21658cd5af142893[m
+Author: Pedro <jprivero4@gmail.com>
+Date:   Tue Aug 27 22:30:00 2024 -0400
+
+    actualizacion backgroun
+
+[33mcommit 5dabcdfb11162cd99937608701cafa076742a075[m
+Author: J Pedro Rivero P <129573462+PedroRiverop@users.noreply.github.com>
+Date:   Wed Aug 28 02:07:49 2024 +0000
+
+    Se arreglo los background colors
+
+[33mcommit 3619610096602baebca91d96e056933aa23b84f6[m
+Author: Pedro <jprivero4@gmail.com>
+Date:   Mon Aug 26 19:24:18 2024 -0400
+
+    Arrelgo sin mensaje error
+
+[33mcommit 3c0b48ef2c355de5feee0fd67a48fa698f2f2134[m
+Author: Pedro <jprivero4@gmail.com>
+Date:   Mon Aug 26 18:49:49 2024 -0400
+
+    Pruebas para mensaje de error
+
+[33mcommit 926e9d42e76856f4eb3ab27ca7d9ccd317a7f10a[m
+Author: J Pedro Rivero P <129573462+PedroRiverop@users.noreply.github.com>
+Date:   Mon Aug 26 01:06:45 2024 -0400
+
+    Initial commit
